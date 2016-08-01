@@ -1,0 +1,29 @@
+{
+ 	"mom": {
+    "name": "Fran",
+    "age": "59",
+    "quality": "not sure, estranged from",
+    "appearance": {
+     "eyes": "brown",
+     "hair": "grey"
+ 		}
+ 	},
+ 	"dad": {
+    "name": "Sean",
+    "age": "55",
+    "quality": "wish I could still talk to him",
+    "appearance": {
+      "eyes": "blue",
+      "hair": "brown"
+ 		}
+ 	},
+ 	"me": {
+    "name": "Jane",
+    "age": "25 (will be on Friday)",
+    "quality": "just trying to do it all",
+    "appearance": {
+      "eyes": "blue/green",
+      "hair": "blonde"
+ 		}
+ 	}
+ }
